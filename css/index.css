@@ -1,0 +1,27 @@
+
+    @import url('https://fonts.googleapis.com/css?family=Major+Mono+Display') ;
+
+h1 { 
+    color: #05fc05;
+    background-color: darkblue;
+}
+p {
+    color:yellow;
+    border:1px solid black;
+} 
+
+.chosen {
+    color:pink;
+}
+
+#neo {
+    background-color:black;
+}
+
+div > p {
+    color:gray;
+}
+
+div ~ p {
+    font-size: 2rem;
+}
